@@ -321,7 +321,7 @@ const Navbar = () => {
 
           <Button
             size="compact"
-            onClick={() => window.location.replace("https://github.com/layerhub-io/react-design-editor")}
+            onClick={() => window.location.replace("https://github.com/angellikgh/react-design-editor")}
             kind={KIND.tertiary}
           >
             <Github size={24} />
