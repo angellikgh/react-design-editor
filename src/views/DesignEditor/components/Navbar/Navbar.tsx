@@ -326,15 +326,6 @@ const Navbar = () => {
           >
             <Github size={24} />
           </Button>
-
-          <Button
-            style={{ marginLeft: "0.5rem" }}
-            size="compact"
-            onClick={() => window.location.replace("https://editor.layerhub.io")}
-            kind={KIND.primary}
-          >
-            Try PRO
-          </Button>
         </Block>
       </Container>
     </ThemeProvider>
